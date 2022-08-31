@@ -84,3 +84,7 @@ If you have any questions, need help or just want to talk to me feel free to com
 [Invite Link](https://discord.gg/vurnaxwxM8)
 
 ### Have fun playing the Client
+
+## Credits 
+
+Thanks to [@ericgolde](https://www.youtube.com/playlist?list=PLxbv-Ej1VQMQS9M2qnmEQtp-qL3xcA4ua) for the tutorial videos on YouTube that some of my mods are based on.
