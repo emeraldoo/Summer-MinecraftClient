@@ -30,8 +30,8 @@ Furthermore everyone is allowed to use my code for non-commercial as well as com
 
 
 <p float="right">
-  <img src="/images/MainMenu.png" width="430" />
-  <img src="/images/Render-Settings.png" width="430" /> 
+  <img src="/images/MainMenu.png" width="400" />
+  <img src="/images/Render-Settings.png" width="400" /> 
 </p>
 
 
@@ -52,9 +52,9 @@ Old Animations (1.7), [FPS](https://github.com/emeraldoo/Summer-MinecraftClient/
 
 
 <p float="left">
-  <img src="/images/Cosmetics-front.png" width="430" />
-  <img src="/images/Cosmetics-back.png" width="430" /> 
-  <img src="/images/Cosmetics-Settings.png" width="430" />
+  <img src="/images/Cosmetics-front.png" width="400" />
+  <img src="/images/Cosmetics-back.png" width="400" /> 
+  <img src="/images/Cosmetics-Settings.png" width="400" />
 </p>
 
 
