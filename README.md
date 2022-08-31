@@ -17,10 +17,10 @@ Furthermore everyone is allowed to use my code for non-commercial as well as com
 •[Keystrokes](https://github.com/emeraldoo/Summer-MinecraftClient/blob/master/SummerClient/client/ch/SummerClient/mods/impl/ModKeystrokes.java)   •[CPS Display](https://github.com/emeraldoo/Summer-MinecraftClient/blob/master/SummerClient/client/ch/SummerClient/mods/impl/ModCPS.java)   •[FPS Display](https://github.com/emeraldoo/Summer-MinecraftClient/blob/master/SummerClient/client/ch/SummerClient/mods/impl/ModFPS.java)   •[Settings Menu](https://github.com/emeraldoo/Summer-MinecraftClient/blob/master/SummerClient/client/ch/SummerClient/Guis/GuiMods.java)   •[Rainbow](https://github.com/emeraldoo/Summer-MinecraftClient/blob/master/SummerClient/client/ch/SummerClient/Helper/Rainbow.java) [HUD](https://github.com/emeraldoo/Summer-MinecraftClient/tree/master/SummerClient/client/ch/SummerClient/hud)   •[AltManager](https://github.com/emeraldoo/Summer-MinecraftClient/tree/master/SummerClient/client/me/tireman/hexa/alts)                                          
 
 <p float="left">
-  <img src="/images/Mods.png" width="430" />
-  <img src="/images/Mod-Settings.png" width="430" /> 
-  <img src="/images/HUD.png" width="430" />
-  <img src="/images/Alt-Manager.png" width="430" />
+  <img src="/images/Mods.png" width="400" />
+  <img src="/images/Mod-Settings.png" width="400" /> 
+  <img src="/images/HUD.png" width="400" />
+  <img src="/images/Alt-Manager.png" width="400" />
 </p>
 
 
@@ -73,7 +73,7 @@ Then add a new version, scroll down to 1.8 and select "release SummerClient".
 
 Then you can start the client and play with it as usual.
 
-####Download:
+#### Download:
 [MediaFire Link](https://www.mediafire.com/file/7g8l19sa987xcho/SummerClient_v1_.zip/file)
 
 ### If you prefer to see a video on how to install the client (the video is more detailed):
