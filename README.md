@@ -57,11 +57,15 @@ Old Animations (1.7), [FPS](https://github.com/emeraldoo/Summer-MinecraftClient/
   <img src="/images/Cosmetics-Settings.png" width="400" />
 </p>
 
+## Credits 
+
+Thanks to [@ericgolde](https://www.youtube.com/playlist?list=PLxbv-Ej1VQMQS9M2qnmEQtp-qL3xcA4ua) for the tutorial videos on YouTube that some of my mods are based on.
+
 
 
 ## How to download the Client
 
-To install the client you just have to download the [.zip file](https://www.mediafire.com/file/7g8l19sa987xcho/SummerClient_v1_.zip/file), then press Windows and R on the keyboard and then enter "%appdata%" in this window.
+To install the client you just have to download the [.zip file](https://www.mediafire.com/file/7g8l19sa987xcho/SummerClient_v1_.zip/file) (MediaFire link below), then press Windows and R on the keyboard and then enter "%appdata%" in this window.
 
 Now you are in the roaming folder and you only have to double click on the ".minecraft" folder. 
 In the ".minecraft" folder you now go to the versions folder, unzip the [downloaded zip](https://www.mediafire.com/file/7g8l19sa987xcho/SummerClient_v1_.zip/file) (MediaFire link below) and drag the unzipped folder into the versions folder.
@@ -80,11 +84,7 @@ Then you can start the client and play with it as usual.
 [![Watch the video](/images/image.png)](https://www.youtube.com/watch?v=gu5TLexWWHs) 
 
 
-If you have any questions, need help or just want to talk to me feel free to come to my Discord server: <br>
+If you have any questions, need help or just want to talk to me feel free to join my Discord server: <br>
 [Invite Link](https://discord.gg/vurnaxwxM8)
 
-### Have fun playing the Client
-
-## Credits 
-
-Thanks to [@ericgolde](https://www.youtube.com/playlist?list=PLxbv-Ej1VQMQS9M2qnmEQtp-qL3xcA4ua) for the tutorial videos on YouTube that some of my mods are based on.
+## Have fun playing the Client
