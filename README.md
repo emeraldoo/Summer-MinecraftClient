@@ -25,7 +25,7 @@ Furthermore everyone is allowed to use my code for non-commercial as well as com
 
 
 #### Render improvements: 
-•Custom Main Menu •[Settings Menu](https://github.com/emeraldoo/Summer-MinecraftClient/blob/master/SummerClient/client/ch/SummerClient/Guis/GuiRendering.java)  •Huge FPS Boost   •Brightness/Fullbright   •RGB Block Overlay   •Old Animations (1.7)   
+•[Custom MainMenu](https://github.com/emeraldoo/Summer-MinecraftClient/blob/master/SummerClient/client/assets/minecraft/MainScreen.jpg) •[Settings Menu](https://github.com/emeraldoo/Summer-MinecraftClient/blob/master/SummerClient/client/ch/SummerClient/Guis/GuiRendering.java)  •Huge FPS Boost   •Brightness/Fullbright   •RGB Block Overlay   •Old Animations (1.7)   
 •[Rainbow function](https://github.com/emeraldoo/Summer-MinecraftClient/blob/master/SummerClient/client/ch/SummerClient/Helper/Rainbow.java) for the mods 
 
 
