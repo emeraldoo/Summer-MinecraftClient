@@ -85,6 +85,7 @@ Then you can start the client and play with it as usual.
 
 
 If you have any questions, need help or just want to talk to me feel free to join my Discord server: <br>
-[Invite Link](https://discord.gg/vurnaxwxM8)
+[Invite Link](https://discord.gg/vurnaxwxM8) <br>
+Alternatively you can add me directly on discord as a friend: emeraldo#9032
 
 ## Have fun playing the Client
